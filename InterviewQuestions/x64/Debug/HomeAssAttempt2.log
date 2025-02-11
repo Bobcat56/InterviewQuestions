@@ -1,0 +1,6 @@
+﻿  main.c
+E:\School\Lvl 6.1A\Term 2\Low-LevelProgramming\New\Attempt2\HomeAssAttempt2\HomeAssAttempt2\FileIO.h(41,57): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char *'
+E:\School\Lvl 6.1A\Term 2\Low-LevelProgramming\New\Attempt2\HomeAssAttempt2\HomeAssAttempt2\MenuFunc.h(86,49): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char *'
+E:\School\Lvl 6.1A\Term 2\Low-LevelProgramming\New\Attempt2\HomeAssAttempt2\HomeAssAttempt2\MenuFunc.h(135,26): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char *'
+E:\School\Lvl 6.1A\Term 2\Low-LevelProgramming\New\Attempt2\HomeAssAttempt2\HomeAssAttempt2\MenuFunc.h(162): warning C4715: 'timeForNewList': not all control paths return a value
+  HomeAssAttempt2.vcxproj -> E:\School\Lvl 6.1A\Term 2\Low-LevelProgramming\New\Attempt2\HomeAssAttempt2\x64\Debug\HomeAssAttempt2.exe
